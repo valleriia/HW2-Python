@@ -1,0 +1,12 @@
+This is the financial report for PyRamen.
+spicy miso ramen {'01-count': 9239, '02-revenue': 110868, '03-cogs': 46195, '04-profit': 64673} 
+tori paitan ramen {'01-count': 9159, '02-revenue': 119067, '03-cogs': 54954, '04-profit': 64113} 
+truffle butter ramen {'01-count': 8983, '02-revenue': 125762, '03-cogs': 62881, '04-profit': 62881} 
+tonkotsu ramen {'01-count': 9289, '02-revenue': 120757, '03-cogs': 55734, '04-profit': 65023} 
+vegetarian spicy miso {'01-count': 9217, '02-revenue': 110604, '03-cogs': 46085, '04-profit': 64519} 
+shio ramen {'01-count': 9181, '02-revenue': 100991, '03-cogs': 45905, '04-profit': 55086} 
+miso crab ramen {'01-count': 8894, '02-revenue': 106728, '03-cogs': 53364, '04-profit': 53364} 
+nagomi shoyu {'01-count': 9133, '02-revenue': 100463, '03-cogs': 45665, '04-profit': 54798} 
+soft-shell miso crab ramen {'01-count': 9131, '02-revenue': 127834, '03-cogs': 63917, '04-profit': 63917} 
+burnt garlic tonkotsu ramen {'01-count': 9071, '02-revenue': 126994, '03-cogs': 54426, '04-profit': 72568} 
+vegetarian curry + king trumpet mushroom ramen {'01-count': 8825, '02-revenue': 114725, '03-cogs': 61775, '04-profit': 52950} 
