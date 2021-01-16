@@ -1,6 +1,6 @@
 # python-homework
 
-Note to TA: In my results I got different figures, but they seem correct accordingly budget_data.csv file. 
+Note to TA: In my results I got different figures, but they seem correct according budget_data.csv file. 
 
 I believe the budget_data.csv file is not the same as one used to come up with the sample text. 
 
