@@ -5,6 +5,6 @@ Note to TA: The output does not look like the one provided in the HW instruction
 I believe the budget_data.csv file is not the same as one used to come up with the sample text. 
 
 
-<img src="1.png" width="500" height="300">  
-<img src="2.png" width="300" height="700">
-<src="1.png">
+<img src="Images/1.png" width="500" height="300"> 
+<img src="Images/2.png" width="300" height="700">
+
